@@ -13,4 +13,6 @@ Relevant Google Colab Links containing the code:
 4. Pair 4: U-Net (ResNet50 → ResNet18)
    https://colab.research.google.com/drive/1wM-ZcpGSDMykBDmmNkPHGCT-SkToYBbH?usp=sharing
 
+Link to ISIC 2016 dataset: https://drive.google.com/drive/folders/117sdZRewyvo4Yz0gkd0TnIaEQKJjyl71?usp=sharing
+
    
